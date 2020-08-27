@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I am currently learning for Hexlet courses
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=klotsin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=klotsin&layout=compact)](https://github.com/pedes/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=klotsin&layout=compact)](https://github.com/pedes/github-readme-stats)
