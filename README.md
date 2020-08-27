@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋, I'm Roman!
 
 **Get in touch:**
 [![Linkedin Badge](https://img.shields.io/badge/-ermakov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-ermakov-a3704a197/)](https://www.linkedin.com/in/roman-ermakov-a3704a197/) ![Profile views](https://gpvc.arturio.dev/klotsin)
