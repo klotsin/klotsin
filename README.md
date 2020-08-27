@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/klotsin)
+[![Linkedin Badge](https://img.shields.io/badge/roman-ermakov-a3704a197?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-ermakov-a3704a197/)](https://www.linkedin.com/in/roman-ermakov-a3704a197/) ![Profile views](https://gpvc.arturio.dev/klotsin)
 <!--
 **klotsin/klotsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
